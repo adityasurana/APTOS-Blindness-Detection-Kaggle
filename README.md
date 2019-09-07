@@ -6,6 +6,8 @@ Build a deep learning model to speed up disease detection and classifying its ca
 
 These models may be used to detect other sorts of diseases in the future, like glaucoma and macular degeneration.
 
+The Dataset was taken from Kaggle Competition ["APTOS BLINDNESS DETECTION"](https://www.kaggle.com/c/aptos2019-blindness-detection/data)
+
                                     **Sample Image in Dataset**
 ![Capture1](https://user-images.githubusercontent.com/39646018/64257052-4d1c4400-cf42-11e9-83cd-bf02cdef17f3.PNG)
 
