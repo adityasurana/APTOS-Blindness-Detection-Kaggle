@@ -15,3 +15,6 @@ The Dataset was taken from Kaggle Competition ["APTOS BLINDNESS DETECTION"](http
                                    **Images in different classes**  
 ![Capture](https://user-images.githubusercontent.com/39646018/64257166-7a68f200-cf42-11e9-86be-877c67d55ac8.PNG)
 ![Captur2e](https://user-images.githubusercontent.com/39646018/64257207-9076b280-cf42-11e9-8e48-332e9d4c0a6b.PNG)
+
+![Capte](https://user-images.githubusercontent.com/39646018/105162534-c2d57f80-5b38-11eb-9ba2-8cf63eccc4a4.PNG)
+Increasing Epochs will increase accuracy.
